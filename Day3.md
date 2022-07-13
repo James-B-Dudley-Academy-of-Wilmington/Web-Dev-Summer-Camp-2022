@@ -12,6 +12,22 @@ Today we are changing the size of our image ( or images! ) and adding more HTML 
 
 <hr>
 
+### Open your website's HTML code
+
+Open VS Code program. The icon looks like this:
+
+![image](https://user-images.githubusercontent.com/38140593/178773893-4638681a-31ec-45b2-8aab-9348f2a77c16.png)
+
+If you're `index.html` is not already there, follow this:
+
+- In the top left corner, go to **File -> Open Folder**
+- Find your USB Drive on the left side of the exploroer
+- In there, find your website project folder
+- Once you find it, click the folder then 'Select Folder' to continue
+
+
+<hr>
+
 ### Resizing images
 Your super duper HTML code should look similar to this: 
 ```html
